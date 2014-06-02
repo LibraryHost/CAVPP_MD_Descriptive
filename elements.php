@@ -94,6 +94,48 @@
             /* 'description' => 'Information about rights to the media item. Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights.', */
         ),
 		
+		// Copyright Date. Maps to 		
+        array(
+            'label' => 'Copyright Date',
+            'name'  => 'Copyright Date',
+            /* 'description' => 'Copyright Date', */
+        ),
+		
+		// Copyright Holder. Maps to 		
+        array(
+            'label' => 'Copyright Holder',
+            'name'  => 'Copyright Holder',
+            /* 'description' => 'Copyright Holder.', */
+        ),
+		
+		// Copyright Holder Info. Maps to 		
+        array(
+            'label' => 'Copyright Holder Info',
+            'name'  => 'Copyright Holder Info',
+            /* 'description' => 'Copyright Holder Info.', */
+        ),
+		
+		// Copyright Notice. Maps to 		
+        array(
+            'label' => 'Copyright Notice',
+            'name'  => 'Copyright Notice',
+            /* 'description' => 'Copyright Notice', */
+        ),
+		
+		// Instututional Rights Statement (URL). 		
+        array(
+            'label' => 'Instututional Rights Statement (URL)',
+            'name'  => 'Instututional Rights Statement (URL)',
+            /* 'description' => 'Instututional Rights Statement (URL).', */
+        ),
+		
+		// Media type. 		
+        array(
+            'label' => 'Media Type',
+            'name'  => 'Media Type',
+            /* 'description' => 'Media Type.', */
+        ),
+		
 		// Generation
 		array(
             'label' => 'Generation (physical asset)',
